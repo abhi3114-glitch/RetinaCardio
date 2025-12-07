@@ -107,10 +107,10 @@ def login():
         username = request.form.get('username')
         password = request.form.get('password')
 
-# Login credentials for Abhishek - 23BCE10219
+# Login credentials
         if username == 'admin' and password == 'admin':
             return redirect('home')
-        elif username == '23BCE10219' and password == 'abhishek':
+        elif username == 'abhishek' and password == 'abhishek':
             return redirect('home')
         else:
            

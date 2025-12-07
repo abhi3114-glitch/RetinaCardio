@@ -114,7 +114,7 @@ The application will start on `http://127.0.0.1:5000`
 
 | Username | Password |
 |----------|----------|
-| 23BCE10219 | abhishek |
+| abhishek | abhishek |
 | admin | admin |
 
 ### Making Predictions
@@ -201,14 +201,12 @@ Verify that all `.keras` model files are present in the root directory alongside
 
 ## License
 
-This project is for educational purposes as part of the VIT Chennai curriculum.
+MIT License - Feel free to use and modify for your own projects.
 
 ## Author
 
-**Abhishek**  
-Registration Number: 23BCE10219  
-VIT Chennai
+**Abhishek**
 
 ---
 
-Project developed for Project Exhibition 2024
+Built with Python, TensorFlow, and Flask
