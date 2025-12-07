@@ -42,7 +42,7 @@ myenv/
 Thumbs.db
 desktop.ini
 
-# Project specific
+# Uploaded images (keep directory structure)
 uploads/*.jpg
 uploads/*.JPG
 uploads/*.jpeg
@@ -59,16 +59,9 @@ uploads/*.png
 # Jupyter
 .ipynb_checkpoints/
 
-# TensorFlow
-*.keras
-!*.keras.example
-
 # Byte-compiled files
 *.pyc
 
 # Temporary files
 *.tmp
 *.temp
-
-# Project Exhibition folder (contains virtual env)
-ProjectExhibition2(FINAL)/
